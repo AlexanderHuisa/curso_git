@@ -1,0 +1,23 @@
+[33mcommit 3a02df1df2f20996e897f90458bd889d7843a373[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: AlexanderHCH <>
+Date:   Tue Sep 13 18:48:33 2022 -0500
+
+    ADD monedas
+
+[33mcommit 7bf4af03ed3fbb98231a589c1d7a6e7e71489ba8[m[33m ([m[1;32mmaster[m[33m)[m
+Author: AlexanderHCH <>
+Date:   Tue Sep 13 18:41:02 2022 -0500
+
+    ADD fin de semana
+
+[33mcommit dfc0adae3fd5f88502921e248aee9c2639028816[m
+Author: AlexanderHCH <>
+Date:   Tue Sep 13 18:39:21 2022 -0500
+
+    ADD dias de la semana
+
+[33mcommit c7a3b6e3eecb4920d106fd229e03816a57e522a1[m
+Author: AlexanderHCH <>
+Date:   Tue Sep 13 18:36:39 2022 -0500
+
+    primer commit
