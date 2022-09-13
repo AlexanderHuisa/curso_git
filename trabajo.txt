@@ -10,3 +10,8 @@ jueves
 viernes
 sabado
 domingo
+
+monedas en Perú
+
+-soles
+-dolares
