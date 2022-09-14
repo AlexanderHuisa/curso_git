@@ -1,7 +1,7 @@
 proyecto
 
 
-dias de la semana
+dias de la SEMANA
 
 lunes
 martes
@@ -11,8 +11,7 @@ viernes
 sabado
 domingo
 
-monedas en Perú
+monedas en el Perú
 
 -soles
 -dolares
--euros
